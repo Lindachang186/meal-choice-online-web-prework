@@ -5,5 +5,3 @@ def meal_choice(choice = "meat")
 end
 
 puts meal_choice
-
-meal_choice("vegan")
