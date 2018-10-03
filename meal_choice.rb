@@ -4,4 +4,4 @@ def meal_choice(choice = "meat")
   return meal_choice
 end
 
-meal_choice
+puts meal_choice
